@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Producto 1",
+      "description": "Desc prod1",
+      "price": 250,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 700
+    },
+    {
+      "id": 2,
+      "title": "Producto 2",
+      "description": "Desc prod2",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 3,
+      "title": "Producto 3",
+      "description": "Desc prod3",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 4,
+      "title": "Producto 4",
+      "description": "Desc prod4",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 5,
+      "title": "Producto 5",
+      "description": "Desc prod5",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 6,
+      "title": "Producto 6",
+      "description": "Desc prod6",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 7,
+      "title": "Producto 7",
+      "description": "Desc prod7",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 8,
+      "title": "Producto 8",
+      "description": "Desc prod8",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 9,
+      "title": "Producto 9",
+      "description": "Desc prod9",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    },
+    {
+      "id": 10,
+      "title": "Producto 10",
+      "description": "Desc prod10",
+      "price": 122,
+      "thumbnail": "www.image.com",
+      "code": "qwerty",
+      "stock": 500
+    }
+
+  ]

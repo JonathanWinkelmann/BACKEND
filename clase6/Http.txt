@@ -1,0 +1,13 @@
+HTTP: (Hypertext Transfer)
+
+- Refiere a un protocolo, es un conjunto de reglas q permite la comunicacion entre 2 o mas sistemas. 
+- Gracias a esto las computadoras saben comunicarse entre si y permiten comunicarse con servidores para obtencion de datos. ej: las paginas.
+
+COMO FUNCIONA?
+
+- Se basa en un modelo de peticion - respuesta.
+- El cliente hace la peticion de info. entoces el servidor se encarga de respoder con dicha informacion. 
+
+QUE TIPO DE INFORMACION?
+
+- Datos con nombre fechas, archivos o una pagina completa.

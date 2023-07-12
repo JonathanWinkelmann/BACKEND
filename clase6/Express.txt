@@ -1,0 +1,8 @@
+EXPRESS JS
+
+- Es un framework minimalista q permitira desarrollar servidores complejos.
+
+Nos facilitara a:
+ - Utilizar diferentes rutas para las peticiones.
+ - Mejorar la estructuta de nuestro proyecto.
+ - Manejar funcionalidades mas complejas y utilizacion de middlewares.
